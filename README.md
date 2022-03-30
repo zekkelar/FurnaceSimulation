@@ -5,12 +5,17 @@
 
 <h3 align="center">Furnace Simulation HEAT Temperature</h3>
 
-
+# Install
 ## Install & Launch
 
-Install
 ```
 open URNACE SIMULATION REALLLLLLL\FURNACE SIMULATION REALLLLLLL\bin\Debug
 FURNACE SIMULATION REALLLLL.exe
 ```
 
+
+## Prerequisites
+
+```
+Net framework >= 3.5 - Recommended: latest
+```
