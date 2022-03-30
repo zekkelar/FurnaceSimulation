@@ -19,3 +19,11 @@ FURNACE SIMULATION REALLLLL.exe
 ```
 Net framework >= 3.5 - Recommended: latest
 ```
+
+## Calculating Heat temperature of Furnace
+
+```
+- First calculate Enrichment of oxygen, ( Percent )
+- and then, Calculate temperature rise from enrichment
+- if wanna calculate temperature rise, u must find maximal temperature (100%)
+```
