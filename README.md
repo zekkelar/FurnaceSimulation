@@ -27,3 +27,7 @@ Net framework >= 3.5 - Recommended: latest
 - and then, Calculate temperature rise from enrichment
 - if wanna calculate temperature rise, u must find maximal temperature (100%)
 ```
+
+## License
+
+This project is licensed under the [MIT license](LICENSE).
